@@ -4,7 +4,6 @@
 [![Changelog](https://img.shields.io/github/v/release/rstms/tzc?include_prereleases&label=changelog)](https://github.com/rstms/tzc/releases)
 [![Tests](https://github.com/rstms/tzc/workflows/Test/badge.svg)](https://github.com/rstms/tzc/actions?query=workflow%3ATest)
 [![License](https://img.shields.io/pypy/l/tzc)](https://github.com/rstms/tzc/blob/master/LICENSE)
-a/pypi/l/:packageName
 
 copies input to output, converting timezone in any lines beginning with an ISO-8601 timestamp
 
