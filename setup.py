@@ -28,7 +28,7 @@ setup(
         [console_scripts]
         tzc=tzc.main:cli
     """,
-    install_requires=["click"],
+    install_requires=["click", "arrow"],
     extras_require={
         "test": ["pytest", 'pytest-datadir']
     },
