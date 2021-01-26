@@ -1,0 +1,10 @@
+---------------------------------------------------------------------------------------------------------------
+2021-01-25 20:56:29 [485:main] configfile.py:26 __init__ DEBUG ConfigFile<0x7f0882f3aca0> /home/nfatools/config/config.ini.__init__()
+2021-01-25 20:56:29 [485:main] __init__.py:87 shutdown_logging_queue DEBUG Shutdown -- Runtime: 0:00:00.001191
+2021-01-25 20:56:30 [488:main] __init__.py:75 handle_global_options DEBUG
+--------------------------------------------------------------------------------------
+Startup: nfatools v1.1.2 args=['/home/nfatools/.local/bin/nfatools-config', 'gateway']
+--------------------------------------------------------------------------------------
+2021-01-25 20:56:30 [488:main] configfile.py:26 __init__ DEBUG ConfigFile<0x7f1999f5ec70> /home/nfatools/config/config.ini.__init__()
+2021-01-25 20:56:30 [488:main] network.py:16 default_gateway DEBUG Default Gateway = 172.27.0.1
+2021-01-25 20:56:30 [488:main] __init__.py:87 shutdown_logging_queue DEBUG Shutdown -- Runtime: 0:00:00.001360
