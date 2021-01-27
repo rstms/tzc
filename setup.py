@@ -21,7 +21,7 @@ setup(
         "CI": "https://github.com/rstms/tzc/actions",
         "Changelog": "https://github.com/rstms/tzc/releases",
     },
-    license="Apache License, Version 2.0",
+    license="MIT License",
     version=get_version(),
     packages=["tzc"],
     entry_points="""
