@@ -14,8 +14,20 @@ Install this tool using `pip`:
     $ pip install tzc
 
 ## Usage
+```
+Usage: tzc [OPTIONS] [INPUT_FILE] [OUTPUT_FILE]
 
-Usage instructions go here.
+  copy input to output, converting timezone in any lines starting with a
+  timestamp
+
+Options:
+  --version               Show the version and exit.
+  -i, --input-zone TEXT   timezone in file
+  -o, --output-zone TEXT  output timezone
+  -f, --format TEXT       output format (strptime)
+  -s, --short             format output as YYYY-MM-DD HH:MM:SS
+  --help                  Show this message and exit.
+```
 
 ## Development
 
